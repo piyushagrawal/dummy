@@ -5,3 +5,6 @@ Store:
   Cheesemonger:
     - ‘Blue cheese’
     - ‘Feta’
+  Support:
+    - ‘True’
+  
